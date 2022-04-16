@@ -1,0 +1,79 @@
+200 village_plains_dark_oak:
+minecraft:stripped_oak_log -> biomemakeover:ancient_oak_log
+minecraft:oak_log (feature) -> biomemakeover:ancient_oak_log
+minecraft:oak_log (!feature) -> biomemakeover:stripped_ancient_oak_log
+minecraft:stripped_oak_wood -> biomemakeover:stripped_ancient_oak_wood
+minecraft:oak_door -> biomemakeover:ancient_oak_door
+minecraft:oak_trapdoor -> biomemakeover:ancient_oak_trapdoor
+minecraft:oak_fence -> biomemakeover:ancient_oak_fence
+minecraft:oak_fence_gate -> biomemakeover:ancient_oak_fence_gate
+minecraft:oak_pressure_plate -> biomemakeover:ancient_oak_pressure_plate
+
+village_plains_dark_oak,village_plains_jacaranda,village_plains_birch:
+minecraft:white_terracotta -> biomemakeover:mushroom_stem_brick
+
+village_plains_oak,village_plains_jacaranda:
+minecraft:cobblestone -> 70 biomemakeover:blighted_stone_bricks, 30 minecraft:stone_bricks
+minecraft:cobblestone_stairs -> 70 biomemakeover:blighted_stone_brick_stairs, 30 minecraft:stone_brick_stairs
+minecraft:cobblestone_wall -> 70 biomemakeover:blighted_stone_brick_wall, 30 minecraft:stone_brick_wall
+minecraft:cobblestone_slab -> 70 biomemakeover:blighted_stone_brick_slab, 30 minecraft:stone_brick_slab
+minecraft:mossy_cobblestone -> minecraft:mossy_stone_bricks
+minecraft:mossy_cobblestone_stairs -> minecraft:mossy_stone_brick_stairs
+minecraft:mossy_cobblestone_wall -> minecraft:mossy_stone_brick_wall
+minecraft:mossy_cobblestone_slab -> minecraft:mossy_stone_brick_slab
+minecraft:smooth_stone_slab -> ?
+
+village_plains_birch:
+minecraft:white_terracotta -> biomemakeover:brown_mushroom_brick
+
+village_plains_birch:
+minecraft:cobblestone -> 70 biomemakeover:blighted_cobblestone, 30 minecraft:cobblestone
+minecraft:cobblestone_stairs -> 70 biomemakeover:blighted_cobblestone_stairs, 30 minecraft:cobblestone_stairs
+minecraft:cobblestone_wall -> 70 biomemakeover:blighted_cobblestone_wall, 30 minecraft:cobblestone_wall
+minecraft:cobblestone_slab -> 70 biomemakeover:blighted_cobblestone_slab, 30 minecraft:cobblestone_slab
+minecraft:mossy_cobblestone -> ?
+minecraft:mossy_cobblestone_stairs -> ?
+minecraft:mossy_cobblestone_wall -> ?
+minecraft:mossy_cobblestone_slab -> ?
+
+village_plains_walnut_1,village_taiga_pine_1,village_taiga_holly:
+minecraft:cobblestone -> 70 biomemakeover:dried_peat_bricks, 30 biomemakeover:cracked_dried_peat_bricks
+minecraft:cobblestone_stairs -> 70 biomemakeover:dried_peat_bricks_stairs, 30 biomemakeover:cracked_dried_peat_brick_stairs // wtf
+minecraft:cobblestone_wall -> 70 biomemakeover:dried_peat_bricks_wall, 30 biomemakeover:cracked_dried_peat_brick_wall
+minecraft:cobblestone_slab -> 70 biomemakeover:dried_peat_bricks_slab, 30 biomemakeover:cracked_dried_peat_brick_slab
+minecraft:mossy_cobblestone -> biomemakeover:mossy_dried_peat_bricks
+minecraft:mossy_cobblestone_stairs -> biomemakeover:mossy_dried_peat_brick_stairs
+minecraft:mossy_cobblestone_wall -> biomemakeover:mossy_dried_peat_brick_wall
+minecraft:mossy_cobblestone_slab -> biomemakeover:mossy_dried_peat_brick_slab
+minecraft:smooth_stone_slab -> biomemakeover:dried_peat_brick_slab
+
+village_taiga_aspen,village_taiga_fir,village_taiga_cika,village_taiga_pine_1,village_taiga_pine_2,village_taiga_witch_hazel,village_taiga_spruce:
+minecraft:cobblestone -> biomemakeover:mushroom_stem_brick
+minecraft:cobblestone_stairs -> biomemakeover:mushroom_stem_brick_stairs
+minecraft:cobblestone_wall -> biomemakeover:mushroom_stem_brick_wall
+minecraft:cobblestone_slab -> biomemakeover:mushroom_stem_brick_slab
+minecraft:mossy_cobblestone -> biomemakeover:mushroom_stem_brick
+minecraft:mossy_cobblestone_stairs -> biomemakeover:mushroom_stem_brick_stairs
+minecraft:mossy_cobblestone_wall -> biomemakeover:mushroom_stem_brick_wall
+minecraft:mossy_cobblestone_slab -> biomemakeover:mushroom_stem_brick_slab
+
+village_taiga_holly,village_taiga_spruce:
+minecraft:cobblestone -> biomemakeover:white_terracotta_bricks
+minecraft:cobblestone_stairs -> biomemakeover:white_terracotta_brick_stairs
+minecraft:cobblestone_wall -> biomemakeover:white_terracotta_brick_wall
+minecraft:cobblestone_slab -> biomemakeover:white_terracotta_brick_slab
+minecraft:mossy_cobblestone -> biomemakeover:white_terracotta_bricks
+minecraft:mossy_cobblestone_stairs -> biomemakeover:white_terracotta_brick_stairs
+minecraft:mossy_cobblestone_wall -> biomemakeover:white_terracotta_brick_wall
+minecraft:mossy_cobblestone_slab -> biomemakeover:white_terracotta_brick_slab
+minecraft:smooth_stone_slab -> biomemakeover:white_terracotta_brick_slab
+
+village_taiga_spruce:
+minecraft:cobblestone -> 70 biomemakeover:cyan_terracotta_bricks, 30 minecraft:cyan_terracotta
+minecraft:cobblestone_stairs -> biomemakeover:cyan_terracotta_brick_stairs
+minecraft:cobblestone_wall -> biomemakeover:cyan_terracotta_brick_wall
+minecraft:cobblestone_slab -> biomemakeover:cyan_terracotta_brick_slab
+minecraft:mossy_cobblestone -> 70 biomemakeover:cyan_terracotta_bricks, 30 minecraft:cyan_terracotta
+minecraft:mossy_cobblestone_stairs -> biomemakeover:cyan_terracotta_brick_stairs
+minecraft:mossy_cobblestone_wall -> biomemakeover:cyan_terracotta_brick_wall
+minecraft:mossy_cobblestone_slab -> biomemakeover:cyan_terracotta_brick_slab

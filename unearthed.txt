@@ -1,0 +1,373 @@
+village_plains_jacaranda,village_taiga_cika:
+minecraft:cobblestone -> 70 unearthed:phyllite_bricks, 30 unearthed:cracked_phyllite_bricks
+minecraft:cobblestone_stairs -> unearthed:phyllite_brick_stairs
+minecraft:cobblestone_wall -> unearthed:phyllite_brick_wall
+minecraft:cobblestone_slab -> unearthed:phyllite_brick_slab
+minecraft:mossy_cobblestone -> unearthed:mossy_phyllite_bricks
+minecraft:mossy_cobblestone_stairs -> unearthed:mossy_phyllite_brick_stairs
+minecraft:mossy_cobblestone_wall -> unearthed:mossy_phyllite_brick_wall
+minecraft:mossy_cobblestone_slab -> unearthed:mossy_phyllite_brick_slab
+minecraft:smooth_stone_slab -> ?
+
+village_plains_jacaranda,village_plains_dark_oak:
+minecraft:cobblestone -> 70 unearthed:slate_bricks, 30 unearthed:cracked_slate_bricks
+minecraft:cobblestone_stairs -> unearthed:slate_brick_stairs
+minecraft:cobblestone_wall -> unearthed:slate_brick_wall
+minecraft:cobblestone_slab -> unearthed:slate_brick_slab
+minecraft:mossy_cobblestone -> unearthed:mossy_slate_bricks
+minecraft:mossy_cobblestone_stairs -> unearthed:mossy_slate_brick_stairs
+minecraft:mossy_cobblestone_wall -> unearthed:mossy_slate_brick_wall
+minecraft:mossy_cobblestone_slab -> unearthed:mossy_slate_brick_slab
+minecraft:smooth_stone_slab -> unearthed:polished_gabbro_slab
+
+village_plains_jacaranda,village_taiga_witch_hazel:
+minecraft:cobblestone -> unearthed:polished_white_granite
+minecraft:cobblestone_stairs -> unearthed:polished_white_granite_stairs
+minecraft:cobblestone_wall -> unearthed:polished_white_granite_wall
+minecraft:cobblestone_slab -> unearthed:polished_white_granite_slab
+minecraft:mossy_cobblestone -> unearthed:polished_white_granite
+minecraft:mossy_cobblestone_stairs -> unearthed:polished_white_granite_stairs
+minecraft:mossy_cobblestone_wall -> unearthed:polished_white_granite_wall
+minecraft:mossy_cobblestone_slab -> unearthed:polished_white_granite_slab
+minecraft:smooth_stone_slab -> unearthed:polished_white_granite_brick_slab
+
+village_plains_jacaranda:
+minecraft:cobblestone -> 70 unearthed:polished_rhyolite_bricks, 30 unearthed:cracked_polished_rhyolite_bricks
+minecraft:cobblestone_stairs -> unearthed:polished_rhyolite_brick_stairs
+minecraft:cobblestone_wall -> unearthed:polished_rhyolite_brick_wall
+minecraft:cobblestone_slab -> unearthed:polished_rhyolite_brick_slab
+minecraft:mossy_cobblestone -> 70 unearthed:polished_rhyolite_bricks, 30 unearthed:cracked_polished_rhyolite_bricks
+minecraft:mossy_cobblestone_stairs -> unearthed:polished_rhyolite_brick_stairs
+minecraft:mossy_cobblestone_wall -> unearthed:polished_rhyolite_brick_wall
+minecraft:mossy_cobblestone_slab -> unearthed:polished_rhyolite_brick_slab
+minecraft:smooth_stone_slab -> ?
+
+village_plains_jacaranda:
+minecraft:cobblestone -> unearthed:cut_siltstone
+minecraft:cobblestone_stairs -> unearthed:cut_siltstone_stairs
+minecraft:cobblestone_wall -> unearthed:cut_siltstone_wall
+minecraft:cobblestone_slab -> unearthed:cut_siltstone_slab
+minecraft:mossy_cobblestone -> unearthed:cut_siltstone
+minecraft:mossy_cobblestone_stairs -> unearthed:cut_siltstone_stairs
+minecraft:mossy_cobblestone_wall -> unearthed:cut_siltstone_wall
+minecraft:mossy_cobblestone_slab -> unearthed:cut_siltstone_slab
+minecraft:smooth_stone_slab -> unearthed:cut_mudstone_slab
+
+village_plains_dark_oak:
+minecraft:oak_stairs -> unearthed:lignite_stairs
+minecraft:oak_slab -> unearthed:lignite_slab
+minecraft:oak_planks -> unearthed:lignite
+
+village_plains_oak,village_plains_dark_oak,village_plains_birch,village_taiga_maple,village_taiga_fir,village_taiga_cika,village_taiga_spruce:
+minecraft:cobblestone -> 70 unearthed:polished_gabbro_bricks, 30 unearthed:cracked_polished_gabbro_bricks
+minecraft:cobblestone_stairs -> unearthed:polished_gabbro_brick_stairs
+minecraft:cobblestone_wall -> unearthed:polished_gabbro_brick_wall
+minecraft:cobblestone_slab -> unearthed:polished_gabbro_brick_slab
+minecraft:mossy_cobblestone -> 70 unearthed:polished_gabbro_bricks, 30 unearthed:cracked_polished_gabbro_bricks
+minecraft:mossy_cobblestone_stairs -> unearthed:polished_gabbro_brick_stairs
+minecraft:mossy_cobblestone_wall -> unearthed:polished_gabbro_brick_wall
+minecraft:mossy_cobblestone_slab -> unearthed:polished_gabbro_brick_slab
+minecraft:smooth_stone_slab -> unearthed:polished_gabbro_slab
+
+village_plains_dark_oak,village_plains_birch,village_taiga_fir:
+minecraft:cobblestone -> 70 unearthed:polished_granodiorite_bricks, 30 unearthed:cracked_polished_granodiorite_bricks
+minecraft:cobblestone_stairs -> unearthed:polished_granodiorite_brick_stairs
+minecraft:cobblestone_wall -> unearthed:polished_granodiorite_brick_wall
+minecraft:cobblestone_slab -> unearthed:polished_granodiorite_brick_slab
+minecraft:mossy_cobblestone -> 70 unearthed:polished_granodiorite_bricks, 30 unearthed:cracked_polished_granodiorite_bricks
+minecraft:mossy_cobblestone_stairs -> unearthed:polished_granodiorite_brick_stairs
+minecraft:mossy_cobblestone_wall -> unearthed:polished_granodiorite_brick_wall
+minecraft:mossy_cobblestone_slab -> unearthed:polished_granodiorite_brick_slab
+minecraft:smooth_stone_slab -> unearthed:polished_granodiorite_slab
+
+village_plains_dark_oak,village_plains_birch,village_plains_walnut_1,village_taiga_pine_1,village_taiga_zelkova_2:
+minecraft:cobblestone -> unearthed:polished_conglomerate
+minecraft:cobblestone_stairs -> unearthed:polished_conglomerate_stairs
+minecraft:cobblestone_wall -> unearthed:polished_conglomerate_wall
+minecraft:cobblestone_slab -> unearthed:polished_conglomerate_slab
+minecraft:mossy_cobblestone -> unearthed:polished_conglomerate
+minecraft:mossy_cobblestone_stairs -> unearthed:polished_conglomerate_stairs
+minecraft:mossy_cobblestone_wall -> unearthed:polished_conglomerate_wall
+minecraft:mossy_cobblestone_slab -> unearthed:polished_conglomerate_slab
+minecraft:smooth_stone_slab -> unearthed:polished_conglomerate_slab
+
+village_plains_birch:
+minecraft:stripped_oak_log -> unearthed:polished_dacite
+
+village_plains_birch:
+minecraft:stripped_oak_log -> unearthed:beige_limestone_pillar
+
+village_plains_birch,village_taiga_holly,village_taiga_spruce:
+minecraft:cobblestone -> unearthed:cobbled_phyllite
+minecraft:cobblestone_stairs -> unearthed:cobbled_phyllite_stairs
+minecraft:cobblestone_wall -> unearthed:cobbled_phyllite_wall
+minecraft:cobblestone_slab -> unearthed:cobbled_phyllite_slab
+minecraft:mossy_cobblestone -> unearthed:mossy_cobbled_phyllite
+minecraft:mossy_cobblestone_stairs -> unearthed:mossy_cobbled_phyllite_stairs
+minecraft:mossy_cobblestone_wall -> unearthed:mossy_cobbled_phyllite_wall
+minecraft:mossy_cobblestone_slab -> unearthed:mossy_cobbled_phyllite_slab
+minecraft:smooth_stone_slab -> unearthed:phyllite_brick_slab
+
+village_plains_birch,village_plains_walnut_1:
+minecraft:white_terracotta -> 70 unearthed:polished_rhyolite_bricks, 30 unearthed:cracked_polished_rhyolite_bricks
+
+village_plains_oak:
+minecraft:white_terracotta -> unearthed:rhyolite
+
+village_plains_oak:
+minecraft:white_terracotta -> unearthed:white_granite
+
+village_plains_oak,village_taiga_maple:
+minecraft:cobblestone -> 70 unearthed:cobbled_slate, 30 unearthed:slate
+minecraft:cobblestone_stairs -> unearthed:cobbled_slate_stairs
+minecraft:cobblestone_wall -> unearthed:cobbled_slate_wall
+minecraft:cobblestone_slab -> unearthed:cobbled_slate_slab
+minecraft:mossy_cobblestone -> unearthed:mossy_cobbled_slate
+minecraft:mossy_cobblestone_stairs -> unearthed:mossy_cobbled_slate_stairs
+minecraft:mossy_cobblestone_wall -> unearthed:mossy_cobbled_slate_wall
+minecraft:mossy_cobblestone_slab -> unearthed:mossy_cobbled_slate_slab
+minecraft:smooth_stone_slab -> unearthed:slate_brick_slab
+
+village_plains_oak,village_taiga_aspen,village_taiga_zelkova_2,village_taiga_spruce:
+minecraft:cobblestone -> unearthed:cobbled_grey_limestone
+minecraft:cobblestone_stairs -> unearthed:cobbled_grey_limestone_stairs
+minecraft:cobblestone_wall -> unearthed:cobbled_grey_limestone_wall
+minecraft:cobblestone_slab -> unearthed:cobbled_grey_limestone_slab
+minecraft:mossy_cobblestone -> unearthed:cobbled_grey_limestone
+minecraft:mossy_cobblestone_stairs -> unearthed:cobbled_grey_limestone_stairs
+minecraft:mossy_cobblestone_wall -> unearthed:cobbled_grey_limestone_wall
+minecraft:mossy_cobblestone_slab -> unearthed:cobbled_grey_limestone_slab
+minecraft:smooth_stone_slab -> unearthed:grey_limestone_brick_slab
+
+village_plains_oak:
+minecraft:cobblestone -> unearthed:grey_limestone_bricks
+minecraft:cobblestone_stairs -> unearthed:grey_limestone_brick_stairs
+minecraft:cobblestone_wall -> unearthed:grey_limestone_brick_wall
+minecraft:cobblestone_slab -> unearthed:grey_limestone_brick_slab
+minecraft:mossy_cobblestone -> unearthed:grey_limestone_bricks
+minecraft:mossy_cobblestone_stairs -> unearthed:grey_limestone_brick_stairs
+minecraft:mossy_cobblestone_wall -> unearthed:grey_limestone_brick_wall
+minecraft:mossy_cobblestone_slab -> unearthed:grey_limestone_brick_slab
+minecraft:smooth_stone_slab -> unearthed:grey_limestone_brick_slab
+
+village_plains_oak,village_plains_walnut_1,village_taiga_pine_1,village_taiga_pine_2,village_taiga_zelkova_2:
+minecraft:cobblestone -> unearthed:limestone_bricks, unearthed:cobbled_limestone
+minecraft:cobblestone_stairs -> unearthed:limestone_brick_stairs, unearthed:cobbled_limestone_stairs
+minecraft:cobblestone_wall -> unearthed:limestone_brick_wall, unearthed:cobbled_limestone_wall
+minecraft:cobblestone_slab -> unearthed:limestone_brick_slab, unearthed:cobbled_limestone_slab
+minecraft:mossy_cobblestone -> unearthed:limestone_bricks, unearthed:cobbled_limestone
+minecraft:mossy_cobblestone_stairs -> unearthed:limestone_brick_stairs, unearthed:cobbled_limestone_stairs
+minecraft:mossy_cobblestone_wall -> unearthed:limestone_brick_wall, unearthed:cobbled_limestone_wall
+minecraft:mossy_cobblestone_slab -> unearthed:limestone_brick_slab, unearthed:cobbled_limestone_slab
+minecraft:smooth_stone_slab -> unearthed:limestone_brick_slab
+
+village_plains_walnut_1,village_taiga_maple,village_taiga_spruce:
+minecraft:cobblestone -> 40 unearthed:gabbro, 60 unearthed:polished_gabbro
+minecraft:cobblestone_stairs -> unearthed:polished_gabbro_stairs
+minecraft:cobblestone_wall -> unearthed:polished_gabbro_wall
+minecraft:cobblestone_slab -> unearthed:polished_gabbro_slab
+minecraft:mossy_cobblestone -> unearthed:gabbro
+minecraft:mossy_cobblestone_stairs -> unearthed:gabbro_stairs
+minecraft:mossy_cobblestone_wall -> unearthed:gabbro_wall
+minecraft:mossy_cobblestone_slab -> unearthed:gabbro_slab
+minecraft:smooth_stone_slab -> unearthed:polished_gabbro_brick_slab
+
+village_plains_walnut_1:
+minecraft:cobblestone -> unearthed:polished_rhyolite
+minecraft:cobblestone_stairs -> unearthed:polished_rhyolite_stairs
+minecraft:cobblestone_wall -> unearthed:polished_rhyolite_wall
+minecraft:cobblestone_slab -> unearthed:polished_rhyolite_slab
+minecraft:mossy_cobblestone -> unearthed:rhyolite
+minecraft:mossy_cobblestone_stairs -> unearthed:rhyolite_stairs
+minecraft:mossy_cobblestone_wall -> unearthed:rhyolite_wall
+minecraft:mossy_cobblestone_slab -> unearthed:rhyolite_slab
+minecraft:smooth_stone_slab -> unearthed:polished_rhyolite_brick_slab
+
+village_plains_walnut_1,village_taiga_aspen,village_taiga_pine_2,village_taiga_zelkova_1,village_taiga_zelkova_2:
+minecraft:cobblestone -> unearthed:weathered_rhyolite
+minecraft:cobblestone_stairs -> unearthed:weathered_rhyolite_stairs
+minecraft:cobblestone_wall -> unearthed:weathered_rhyolite_wall
+minecraft:cobblestone_slab -> unearthed:weathered_rhyolite_slab
+minecraft:mossy_cobblestone -> unearthed:weathered_rhyolite
+minecraft:mossy_cobblestone_stairs -> unearthed:weathered_rhyolite_stairs
+minecraft:mossy_cobblestone_wall -> unearthed:weathered_rhyolite_wall
+minecraft:mossy_cobblestone_slab -> unearthed:weathered_rhyolite_slab
+minecraft:smooth_stone_slab -> unearthed:polished_conglomerate_slab
+
+village_plains_coconut:
+minecraft:white_terracotta -> unearthed:beige_limestone
+
+village_plains_coconut:
+minecraft:white_terracotta -> unearthed:beige_limestone_bricks
+
+village_plains_coconut:
+minecraft:white_terracotta -> unearthed:smooth_siltstone
+
+village_taiga_maple,village_taiga_fir,village_taiga_cika,village_taiga_holly,village_taiga_spruce:
+minecraft:cobblestone -> unearthed:white_granite
+minecraft:cobblestone_stairs -> unearthed:white_granite_stairs
+minecraft:cobblestone_wall -> unearthed:white_granite_wall
+minecraft:cobblestone_slab -> unearthed:white_granite_slab
+minecraft:mossy_cobblestone -> unearthed:white_granite
+minecraft:mossy_cobblestone_stairs -> unearthed:white_granite_stairs
+minecraft:mossy_cobblestone_wall -> unearthed:white_granite_wall
+minecraft:mossy_cobblestone_slab -> unearthed:white_granite_slab
+minecraft:smooth_stone_slab -> unearthed:polished_white_granite_slab
+
+village_taiga_maple,village_taiga_fir,village_taiga_cika,village_taiga_spruce:
+minecraft:cobblestone -> 60 unearthed:cobbled_beige_limestone, 40 unearthed:beige_limestone_bricks
+minecraft:cobblestone_stairs -> unearthed:cobbled_beige_limestone_stairs
+minecraft:cobblestone_wall -> unearthed:cobbled_beige_limestone_wall
+minecraft:cobblestone_slab -> unearthed:cobbled_beige_limestone_slab
+minecraft:mossy_cobblestone -> unearthed:cobbled_beige_limestone
+minecraft:mossy_cobblestone_stairs -> unearthed:cobbled_beige_limestone_stairs
+minecraft:mossy_cobblestone_wall -> unearthed:cobbled_beige_limestone_wall
+minecraft:mossy_cobblestone_slab -> unearthed:cobbled_beige_limestone_slab
+minecraft:smooth_stone_slab -> unearthed:beige_limestone_brick_slab
+
+village_taiga_maple,village_taiga_aspen,village_taiga_spruce:
+minecraft:cobblestone -> unearthed:phyllite
+minecraft:cobblestone_stairs -> unearthed:phyllite_stairs
+minecraft:cobblestone_wall -> unearthed:phyllite_wall
+minecraft:cobblestone_slab -> unearthed:phyllite_slab
+minecraft:mossy_cobblestone -> unearthed:phyllite
+minecraft:mossy_cobblestone_stairs -> unearthed:phyllite_stairs
+minecraft:mossy_cobblestone_wall -> unearthed:phyllite_wall
+minecraft:mossy_cobblestone_slab -> unearthed:phyllite_slab
+minecraft:smooth_stone_slab -> unearthed:phyllite_brick_slab
+
+village_taiga_maple,village_taiga_pine_2,village_taiga_holly,village_taiga_zelkova_1,village_taiga_zelkova_2,village_taiga_spruce:
+minecraft:cobblestone -> unearthed:quartzite
+minecraft:cobblestone_stairs -> unearthed:quartzite_stairs
+minecraft:cobblestone_wall -> unearthed:quartzite_wall
+minecraft:cobblestone_slab -> unearthed:quartzite_slab
+minecraft:mossy_cobblestone -> unearthed:quartzite
+minecraft:mossy_cobblestone_stairs -> unearthed:quartzite_stairs
+minecraft:mossy_cobblestone_wall -> unearthed:quartzite_wall
+minecraft:mossy_cobblestone_slab -> unearthed:quartzite_slab
+
+village_taiga_aspen,village_taiga_cika:
+minecraft:cobblestone -> unearthed:siltstone
+minecraft:cobblestone_stairs -> unearthed:siltstone_stairs
+minecraft:cobblestone_wall -> unearthed:siltstone_wall
+minecraft:cobblestone_slab -> unearthed:siltstone_slab
+minecraft:mossy_cobblestone -> unearthed:siltstone
+minecraft:mossy_cobblestone_stairs -> unearthed:siltstone_stairs
+minecraft:mossy_cobblestone_wall -> unearthed:siltstone_wall
+minecraft:mossy_cobblestone_slab -> unearthed:siltstone_slab
+minecraft:smooth_stone_slab -> unearthed:cut_mudstone_slab
+
+village_taiga_aspen,village_taiga_cika,village_taiga_pine_2:
+minecraft:cobblestone -> unearthed:granodiorite
+minecraft:cobblestone_stairs -> unearthed:granodiorite_stairs
+minecraft:cobblestone_wall -> unearthed:granodiorite_wall
+minecraft:cobblestone_slab -> unearthed:granodiorite_slab
+minecraft:mossy_cobblestone -> unearthed:granodiorite
+minecraft:mossy_cobblestone_stairs -> unearthed:granodiorite_stairs
+minecraft:mossy_cobblestone_wall -> unearthed:granodiorite_wall
+minecraft:mossy_cobblestone_slab -> unearthed:granodiorite_slab
+minecraft:smooth_stone_slab -> unearthed:polished_granodiorite_slab
+
+village_taiga_fir,village_taiga_cika,village_taiga_zelkova_1,village_taiga_zelkova_2:
+minecraft:cobblestone -> unearthed:rhyolite
+minecraft:cobblestone_stairs -> unearthed:rhyolite_stairs
+minecraft:cobblestone_wall -> unearthed:rhyolite_wall
+minecraft:cobblestone_slab -> unearthed:rhyolite_slab
+minecraft:mossy_cobblestone -> unearthed:rhyolite
+minecraft:mossy_cobblestone_stairs -> unearthed:rhyolite_stairs
+minecraft:mossy_cobblestone_wall -> unearthed:rhyolite_wall
+minecraft:mossy_cobblestone_slab -> unearthed:rhyolite_slab
+minecraft:smooth_stone_slab -> unearthed:polished_rhyolite_slab
+
+village_taiga_fir,village_taiga_spruce:
+minecraft:cobblestone -> unearthed:conglomerate
+minecraft:cobblestone_stairs -> unearthed:conglomerate_stairs
+minecraft:cobblestone_wall -> unearthed:conglomerate_wall
+minecraft:cobblestone_slab -> unearthed:conglomerate_slab
+minecraft:mossy_cobblestone -> unearthed:conglomerate
+minecraft:mossy_cobblestone_stairs -> unearthed:conglomerate_stairs
+minecraft:mossy_cobblestone_wall -> unearthed:conglomerate_wall
+minecraft:mossy_cobblestone_slab -> unearthed:conglomerate_slab
+minecraft:smooth_stone_slab -> unearthed:polished_conglomerate_slab
+
+village_taiga_pine_1,village_taiga_pine_2:
+minecraft:cobblestone -> 60 unearthed:cobbled_phyllite, 40 unearthed:mossy_cobbled_phyllite
+minecraft:cobblestone_stairs -> 60 unearthed:cobbled_phyllite_stairs, 40 unearthed:mossy_cobbled_phyllite_stairs
+minecraft:cobblestone_wall -> 60 unearthed:cobbled_phyllite_wall, 40 unearthed:mossy_cobbled_phyllite_wall
+minecraft:cobblestone_slab -> 60 unearthed:cobbled_phyllite_slab, 40 unearthed:mossy_cobbled_phyllite_slab
+minecraft:mossy_cobblestone -> unearthed:mossy_cobbled_phyllite
+minecraft:mossy_cobblestone_stairs -> unearthed:mossy_cobbled_phyllite_stairs
+minecraft:mossy_cobblestone_wall -> unearthed:mossy_cobbled_phyllite_wall
+minecraft:mossy_cobblestone_slab -> unearthed:mossy_cobbled_phyllite_slab
+minecraft:smooth_stone_slab -> unearthed:phyllite_brick_slab
+
+village_taiga_pine_1,village_taiga_pine_2,village_taiga_spruce:
+minecraft:cobblestone -> 60 unearthed:cobbled_slate, 40 unearthed:mossy_cobbled_slate
+minecraft:cobblestone_stairs -> 60 unearthed:cobbled_slate_stairs, 40 unearthed:mossy_cobbled_slate_stairs
+minecraft:cobblestone_wall -> 60 unearthed:cobbled_slate_wall, 40 unearthed:mossy_cobbled_slate_wall
+minecraft:cobblestone_slab -> 60 unearthed:cobbled_slate_slab, 40 unearthed:mossy_cobbled_slate_slab
+minecraft:mossy_cobblestone -> unearthed:mossy_cobbled_slate
+minecraft:mossy_cobblestone_stairs -> unearthed:mossy_cobbled_slate_stairs
+minecraft:mossy_cobblestone_wall -> unearthed:mossy_cobbled_slate_wall
+minecraft:mossy_cobblestone_slab -> unearthed:mossy_cobbled_slate_slab
+
+village_taiga_pine_1:
+minecraft:cobblestone -> 70 unearthed:polished_white_granite_bricks, 30 unearthed:cracked_polished_white_granite_bricks
+minecraft:cobblestone_stairs -> unearthed:polished_white_granite_brick_stairs
+minecraft:cobblestone_wall -> unearthed:polished_white_granite_brick_wall
+minecraft:cobblestone_slab -> unearthed:polished_white_granite_brick_slab
+minecraft:mossy_cobblestone -> 70 unearthed:polished_white_granite_bricks, 30 unearthed:cracked_polished_white_granite_bricks
+minecraft:mossy_cobblestone_stairs -> unearthed:polished_white_granite_brick_stairs
+minecraft:mossy_cobblestone_wall -> unearthed:polished_white_granite_brick_wall
+minecraft:mossy_cobblestone_slab -> unearthed:polished_white_granite_brick_slab
+
+village_taiga_pine_1,village_taiga_pine_2,village_taiga_zelkova_2,village_taiga_spruce:
+minecraft:cobblestone -> unearthed:smooth_siltstone
+minecraft:cobblestone_stairs -> unearthed:smooth_siltstone_stairs
+minecraft:cobblestone_wall -> unearthed:siltstone_wall
+minecraft:cobblestone_slab -> unearthed:smooth_siltstone_slab
+minecraft:mossy_cobblestone -> unearthed:smooth_siltstone
+minecraft:mossy_cobblestone_stairs -> unearthed:smooth_siltstone_stairs
+minecraft:mossy_cobblestone_wall -> unearthed:siltstone_wall
+minecraft:mossy_cobblestone_slab -> unearthed:smooth_siltstone_slab
+minecraft:smooth_stone_slab -> unearthed:cut_siltstone_slab
+
+village_taiga_zelkova_2:
+minecraft:cobblestone -> unearthed:mudstone
+minecraft:cobblestone_stairs -> unearthed:mudstone_stairs
+minecraft:cobblestone_wall -> unearthed:mudstone_wall
+minecraft:cobblestone_slab -> unearthed:mudstone_slab
+minecraft:mossy_cobblestone -> unearthed:mudstone
+minecraft:mossy_cobblestone_stairs -> unearthed:mudstone_stairs
+minecraft:mossy_cobblestone_wall -> unearthed:mudstone_wall
+minecraft:mossy_cobblestone_slab -> unearthed:mudstone_slab
+
+village_taiga_zelkova_2:
+minecraft:cobblestone -> unearthed:beige_limestone
+minecraft:cobblestone_stairs -> unearthed:beige_limestone_stairs
+minecraft:cobblestone_wall -> unearthed:beige_limestone_wall
+minecraft:cobblestone_slab -> unearthed:beige_limestone_slab
+minecraft:mossy_cobblestone -> unearthed:beige_limestone
+minecraft:mossy_cobblestone_stairs -> unearthed:beige_limestone_stairs
+minecraft:mossy_cobblestone_wall -> unearthed:beige_limestone_wall
+minecraft:mossy_cobblestone_slab -> unearthed:beige_limestone_slab
+
+village_spruce_taiga:
+minecraft:cobblestone -> unearthed:limestone
+minecraft:cobblestone_stairs -> unearthed:limestone_stairs
+minecraft:cobblestone_wall -> unearthed:limestone_wall
+minecraft:cobblestone_slab -> unearthed:limestone_slab
+minecraft:mossy_cobblestone -> unearthed:limestone
+minecraft:mossy_cobblestone_stairs -> unearthed:limestone_stairs
+minecraft:mossy_cobblestone_wall -> unearthed:limestone_wall
+minecraft:mossy_cobblestone_slab -> unearthed:limestone_slab
+
+village_spruce_taiga:
+minecraft:cobblestone -> unearthed:dolerite
+minecraft:cobblestone_stairs -> unearthed:dolerite_stairs
+minecraft:cobblestone_wall -> unearthed:dolerite_wall
+minecraft:cobblestone_slab -> unearthed:dolerite_slab
+minecraft:mossy_cobblestone -> unearthed:dolerite
+minecraft:mossy_cobblestone_stairs -> unearthed:dolerite_stairs
+minecraft:mossy_cobblestone_wall -> unearthed:dolerite_wall
+minecraft:mossy_cobblestone_slab -> unearthed:dolerite_slab

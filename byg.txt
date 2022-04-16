@@ -1,0 +1,460 @@
+default: village_plains_oak => minecraft:village_plains (byg:orchard)
+default: village_plains_oak => minecraft:village_plains (byg:red_oak_forest)
+default: village_plains_oak => minecraft:village_plains (byg:allium_fields)
+default: village_plains_dark_oak => minecraft:village_plains (byg:temperate_rainforest)
+default: village_plains_jacaranda => minecraft:village_plains (byg:amaranth_fields)
+default: village_taiga_maple => minecraft:village_taiga (byg:maple_taiga)
+default: village_taiga_aspen => minecraft:village_taiga (byg:aspen_forest)
+30% default: village_taiga_aspen => minecraft:village_taiga (byg:black_forest)
+default: village_taiga_fir => minecraft:village_taiga (byg:coniferous_forest)
+50% default: village_taiga_fir => minecraft:village_taiga (byg:black_forest)
+default: village_taiga_fir => minecraft:village_taiga (byg:frosted_coniferous_forest)
+default: village_taiga_fir => minecraft:village_snowy (byg:frosted_coniferous_forest)
+default: village_taiga_cika => minecraft:village_taiga (byg:cika_woods)
+default: village_taiga_pine_1 => minecraft:village_taiga (byg:black_forest)
+default: village_taiga_pine_2 => minecraft:village_taiga (byg:black_forest)
+default: village_taiga_holly => minecraft:village_taiga (byg:dacite_ridges)
+default: village_taiga_witch_hazel => minecraft:village_taiga (byg:weeping_witch_forest)
+default: village_taiga_zelkova_1 => minecraft:village_taiga (byg:zelkova_forest)
+default: village_taiga_zelkova_1 => minecraft:village_taiga (byg:twilight_meadow)
+default: village_taiga_zelkova_2 => minecraft:village_taiga (byg:zelkova_forest)
+default: village_taiga_zelkova_2 => minecraft:village_taiga (byg:twilight_meadow)
+default: village_taiga_spruce => minecraft:village_taiga (byg:borealis_grove)
+default: village_taiga_spruce => minecraft:village_taiga (byg:canadian_shield)
+default: village_taiga_spruce => minecraft:village_taiga (byg:coconino_meadow)
+default: village_taiga_spruce => minecraft:village_taiga (byg:rose_fields)
+default: village_taiga_spruce => minecraft:village_taiga (byg:autumnal_taiga)
+default: village_taiga_spruce => minecraft:village_taiga (byg:frosted_taiga)
+default: village_desert_windswept => minecraft:village_desert (byg:windswept_dunes)
+default: village_savanna_pine => minecraft:village_savanna (byg:araucaria_savanna)
+default: village_savanna_baobab => minecraft:village_savanna (byg:baobab_savanna)
+default: village_savanna_oak => minecraft:village_savanna (byg:firecracker_shrubland)
+
+village_plains_jacaranda:
+minecraft:stripped_oak_log -> byg:stripped_jacaranda_log
+minecraft:oak_log -> byg:jacaranda_log
+minecraft:stripped_oak_wood -> byg:stripped_jacaranda_wood
+minecraft:oak_door -> byg:jacaranda_door
+minecraft:oak_trapdoor -> byg:jacaranda_trapdoor
+minecraft:oak_fence -> byg:jacaranda_fence
+minecraft:oak_fence_gate -> byg:jacaranda_fence_gate
+minecraft:oak_pressure_plate -> byg:jacaranda_pressure_plate
+minecraft:oak_leaves -> byg:jacaranda_leaves,byg:flowering_jacaranda_leaves
+minecraft:oak_stairs -> byg:jacaranda_stairs
+minecraft:oak_slab -> byg:jacaranda_slab
+minecraft:oak_planks -> byg:jacaranda_planks
+
+village_plains_jacaranda:
+minecraft:white_terracotta -> minecraft:white_concrete
+
+village_plains_oak,village_plains_jacaranda,village_plains_birch:
+minecraft:white_terracotta -> byg:travertine
+
+village_plains_jacaranda:
+minecraft:yellow_wool -> minecraft:pink_wool
+minecraft:yellow_carpet -> minecraft:pink_carpet
+minecraft:yellow_stained_glass_pane -> minecraft:pink_stained_glass_pane
+
+village_plains_oak,village_plains_jacaranda,village_taiga_cika,village_taiga_zelkova_1:
+minecraft:cobblestone -> byg:dacite_bricks
+minecraft:cobblestone_stairs -> byg:dacite_brick_stairs
+minecraft:cobblestone_wall -> byg:dacite_brick_wall
+minecraft:cobblestone_slab -> byg:dacite_brick_slab
+minecraft:mossy_cobblestone -> byg:dacite_bricks
+minecraft:mossy_cobblestone_stairs -> byg:dacite_brick_stairs
+minecraft:mossy_cobblestone_wall -> byg:dacite_brick_wall
+minecraft:mossy_cobblestone_slab -> byg:dacite_brick_slab
+minecraft:smooth_stone_slab -> byg:polished_travertine_slab
+
+village_plains_oak,village_plains_birch,village_plains_dark_oak,village_taiga_aspen,village_taiga_pine_1,village_taiga_pine_2,village_taiga_zelkova_2,village_taiga_spruce:
+minecraft:cobblestone -> byg:rocky_stone
+minecraft:cobblestone_stairs -> byg:rocky_stone_stairs
+minecraft:cobblestone_wall -> byg:rocky_stone_wall
+minecraft:cobblestone_slab -> byg:rocky_stone_slab
+minecraft:mossy_cobblestone -> byg:mossy_stone
+minecraft:mossy_cobblestone_stairs -> byg:mossy_stone_stairs
+minecraft:mossy_cobblestone_wall -> byg:mossy_stone_wall
+minecraft:mossy_cobblestone_slab -> byg:mossy_stone_slab
+minecraft:smooth_stone_slab -> ?
+
+village_plains_oak,village_plains_walnut_2:
+minecraft:white_terracotta -> byg:smooth_windswept_sandstone
+
+village_taiga_maple:
+minecraft:stripped_spruce_log -> byg:stripped_maple_log
+minecraft:spruce_log -> byg:maple_log
+minecraft:stripped_spruce_wood -> byg:stripped_maple_wood
+minecraft:spruce_wood -> byg:maple_wood
+minecraft:spruce_door -> byg:maple_door
+minecraft:spruce_trapdoor -> byg:maple_trapdoor
+minecraft:spruce_fence -> byg:maple_fence
+minecraft:spruce_fence_gate -> byg:maple_fence_gate
+minecraft:spruce_pressure_plate -> byg:maple_pressure_plate
+minecraft:spruce_leaves -> byg:maple_leaves
+minecraft:spruce_stairs -> byg:maple_stairs
+minecraft:spruce_slab -> byg:maple_slab
+minecraft:spruce_planks -> byg:maple_planks
+minecraft:spruce_sign -> byg:maple_sign
+
+village_taiga_maple,village_taiga_holly,village_taiga_zelkova_2,village_taiga_spruce:
+minecraft:cobblestone -> byg:dacite_cobblestone
+minecraft:cobblestone_stairs -> byg:dacite_cobblestone_stairs
+minecraft:cobblestone_wall -> byg:dacite_cobblestone_wall
+minecraft:cobblestone_slab -> byg:dacite_cobblestone_slab
+minecraft:mossy_cobblestone -> byg:dacite
+minecraft:mossy_cobblestone_stairs -> byg:dacite_stairs
+minecraft:mossy_cobblestone_wall -> byg:dacite_wall
+minecraft:mossy_cobblestone_slab -> byg:dacite_slab
+
+village_taiga_maple,village_taiga_spruce:
+minecraft:cobblestone -> byg:soapstone
+minecraft:cobblestone_stairs -> byg:soapstone_stairs
+minecraft:cobblestone_wall -> byg:soapstone_wall
+minecraft:cobblestone_slab -> byg:soapstone_slab
+minecraft:mossy_cobblestone -> byg:soapstone
+minecraft:mossy_cobblestone_stairs -> byg:soapstone_stairs
+minecraft:mossy_cobblestone_wall -> byg:soapstone_wall
+minecraft:mossy_cobblestone_slab -> byg:soapstone_slab
+
+village_taiga_cika:
+minecraft:cobblestone -> byg:soapstone_bricks
+minecraft:cobblestone_stairs -> byg:soapstone_brick_stairs
+minecraft:cobblestone_wall -> byg:soapstone_brick_wall
+minecraft:cobblestone_slab -> byg:soapstone_brick_slab
+minecraft:mossy_cobblestone -> byg:soapstone_bricks
+minecraft:mossy_cobblestone_stairs -> byg:soapstone_brick_stairs
+minecraft:mossy_cobblestone_wall -> byg:soapstone_brick_wall
+minecraft:mossy_cobblestone_slab -> byg:soapstone_brick_slab
+
+village_taiga_aspen:
+minecraft:stripped_spruce_log -> byg:stripped_aspen_log
+minecraft:spruce_log (feature) -> byg:aspen_log
+minecraft:spruce_log (!feature) -> byg:stripped_aspen_log
+minecraft:stripped_spruce_wood -> byg:stripped_aspen_wood
+minecraft:spruce_wood -> byg:stripped_aspen_wood
+minecraft:spruce_door -> byg:aspen_door
+minecraft:spruce_trapdoor -> byg:aspen_trapdoor
+minecraft:spruce_fence -> byg:aspen_fence
+minecraft:spruce_fence_gate -> byg:aspen_fence_gate
+minecraft:spruce_pressure_plate -> byg:aspen_pressure_plate
+minecraft:spruce_leaves -> byg:aspen_leaves
+minecraft:spruce_stairs -> byg:aspen_stairs
+minecraft:spruce_slab -> byg:aspen_slab
+minecraft:spruce_planks -> byg:aspen_planks
+minecraft:spruce_sign -> byg:aspen_sign
+
+village_taiga_aspen,village_taiga_holly:
+minecraft:cobblestone -> minecraft:bricks
+minecraft:cobblestone_stairs -> minecraft:brick_stairs
+minecraft:cobblestone_wall -> minecraft:brick_wall
+minecraft:cobblestone_slab -> minecraft:brick_slab
+minecraft:mossy_cobblestone -> minecraft:bricks
+minecraft:mossy_cobblestone_stairs -> minecraft:brick_stairs
+minecraft:mossy_cobblestone_wall -> minecraft:brick_wall
+minecraft:mossy_cobblestone_slab -> minecraft:brick_slab
+
+village_taiga_fir:
+minecraft:stripped_spruce_log -> byg:stripped_fir_log
+minecraft:spruce_log -> byg:fir_log
+minecraft:stripped_spruce_wood -> byg:stripped_fir_wood
+minecraft:spruce_wood -> byg:fir_wood
+minecraft:spruce_door -> byg:fir_door
+minecraft:spruce_trapdoor -> byg:fir_trapdoor
+minecraft:spruce_fence -> byg:fir_fence
+minecraft:spruce_fence_gate -> byg:fir_fence_gate
+minecraft:spruce_pressure_plate -> byg:fir_pressure_plate
+minecraft:spruce_leaves -> byg:fir_leaves
+minecraft:spruce_stairs -> byg:fir_stairs
+minecraft:spruce_slab -> byg:fir_slab
+minecraft:spruce_planks -> byg:fir_planks
+minecraft:spruce_sign -> byg:fir_sign
+
+village_taiga_fir:
+minecraft:cobblestone -> ?
+minecraft:cobblestone_stairs -> ?
+minecraft:cobblestone_wall -> ?
+minecraft:cobblestone_slab -> ?
+minecraft:mossy_cobblestone -> ?
+minecraft:mossy_cobblestone_stairs -> ?
+minecraft:mossy_cobblestone_wall -> ?
+minecraft:mossy_cobblestone_slab -> ?
+
+village_taiga_fir:
+minecraft:cobblestone -> minecraft:andesite
+minecraft:cobblestone_stairs -> minecraft:andesite_stairs
+minecraft:cobblestone_wall -> minecraft:andesite_wall
+minecraft:cobblestone_slab -> minecraft:andesite_slab
+minecraft:mossy_cobblestone -> minecraft:andesite
+minecraft:mossy_cobblestone_stairs -> minecraft:andesite_stairs
+minecraft:mossy_cobblestone_wall -> minecraft:andesite_wall
+minecraft:mossy_cobblestone_slab -> minecraft:andesite_slab
+
+village_taiga_fir,village_taiga_cika,village_taiga_holly:
+minecraft:cobblestone -> 70 minecraft:cobbled_deepslate,20 minecraft:deepslate_bricks,10 minecraft:cracked_deepslate_bricks
+minecraft:mossy_cobblestone -> 70 minecraft:cobbled_deepslate,20 minecraft:deepslate_bricks,10 minecraft:cracked_deepslate_bricks
+minecraft:cobblestone_stairs -> 70 minecraft:cobbled_deepslate_stairs,30 minecraft:deepslate_brick_stairs
+minecraft:mossy_cobblestone_stairs -> 70 minecraft:cobbled_deepslate_stairs,30 minecraft:deepslate_brick_stairs
+minecraft:cobblestone_wall -> 70 minecraft:cobbled_deepslate_wall,30 minecraft:deepslate_brick_wall
+minecraft:mossy_cobblestone_wall -> 70 minecraft:cobbled_deepslate_wall,30 minecraft:deepslate_brick_wall
+minecraft:cobblestone_slab -> 70 minecraft:cobbled_deepslate_slab,30 minecraft:deepslate_brick_slab
+minecraft:mossy_cobblestone_slab -> 70 minecraft:cobbled_deepslate_slab,30 minecraft:deepslate_brick_slab
+
+village_taiga_fir,village_taiga_pine_2:
+minecraft:cobblestone -> byg:dacite
+minecraft:cobblestone_stairs -> byg:dacite_stairs
+minecraft:cobblestone_wall -> byg:dacite_wall
+minecraft:cobblestone_slab -> byg:dacite_slab
+minecraft:mossy_cobblestone -> byg:dacite
+minecraft:mossy_cobblestone_stairs -> byg:dacite_stairs
+minecraft:mossy_cobblestone_wall -> byg:dacite_wall
+minecraft:mossy_cobblestone_slab -> byg:dacite_slab
+
+village_taiga_pine_2,village_taiga_witch_hazel,village_taiga_zelkova_2,village_taiga_spruce:
+minecraft:cobblestone -> byg:travertine
+minecraft:cobblestone_stairs -> byg:travertine_stairs
+minecraft:cobblestone_wall -> byg:travertine_wall
+minecraft:cobblestone_slab -> byg:travertine_slab
+minecraft:mossy -> byg:travertine
+minecraft:mossy_cobblestone_stairs -> byg:travertine_stairs
+minecraft:mossy_cobblestone_wall -> byg:travertine_wall
+minecraft:mossy_cobblestone_slab -> byg:travertine_slab
+
+village_taiga_cika:
+minecraft:stripped_spruce_log -> byg:stripped_cika_log
+minecraft:spruce_log -> byg:cika_log
+minecraft:stripped_spruce_wood -> byg:stripped_cika_wood
+minecraft:spruce_wood -> byg:cika_wood
+minecraft:spruce_door -> byg:cika_door
+minecraft:spruce_trapdoor -> byg:cika_trapdoor
+minecraft:spruce_fence -> byg:cika_fence
+minecraft:spruce_fence_gate -> byg:cika_fence_gate
+minecraft:spruce_pressure_plate -> byg:cika_pressure_plate
+minecraft:spruce_leaves -> byg:cika_leaves
+minecraft:spruce_stairs -> byg:cika_stairs
+minecraft:spruce_slab -> byg:cika_slab
+minecraft:spruce_planks -> byg:cika_planks
+minecraft:spruce_sign -> byg:cika_sign
+
+village_taiga_cika:
+minecraft:cobblestone -> minecraft:deepslate_tiles
+minecraft:cobblestone_stairs -> minecraft:deepslate_tile_stairs
+minecraft:cobblestone_wall -> minecraft:deepslate_tile_wall
+minecraft:cobblestone_slab -> minecraft:deepslate_tile_slab
+minecraft:mossy_cobblestone -> minecraft:deepslate_tiles
+minecraft:mossy_cobblestone_wall -> minecraft:deepslate_tile_wall
+minecraft:mossy_cobblestone_stairs -> minecraft:deepslate_tile_stairs
+minecraft:mossy_cobblestone_slab -> minecraft:deepslate_tile_slab
+
+village_taiga_pine_1:
+minecraft:stripped_spruce_log -> byg:stripped_pine_log
+minecraft:spruce_log (feature) -> byg:pine_log
+minecraft:spruce_log (!feature) -> byg:stripped_pine_log
+minecraft:stripped_spruce_wood -> byg:stripped_pine_wood
+minecraft:spruce_wood -> byg:stripped_pine_wood
+minecraft:spruce_door -> byg:pine_door
+minecraft:spruce_trapdoor -> byg:pine_trapdoor
+minecraft:spruce_fence -> byg:pine_fence
+minecraft:spruce_fence_gate -> byg:pine_fence_gate
+minecraft:spruce_pressure_plate -> byg:pine_pressure_plate
+minecraft:spruce_leaves -> byg:pine_leaves
+minecraft:spruce_stairs -> byg:pine_stairs
+minecraft:spruce_slab -> byg:pine_slab
+minecraft:spruce_planks -> byg:pine_planks
+minecraft:spruce_sign -> byg:pine_sign
+
+village_taiga_pine_2:
+minecraft:stripped_spruce_log -> byg:stripped_pine_log
+minecraft:spruce_log -> byg:pine_log
+minecraft:stripped_spruce_wood -> byg:stripped_pine_wood
+minecraft:spruce_wood -> byg:pine_wood
+minecraft:spruce_door -> byg:pine_door
+minecraft:spruce_trapdoor -> byg:pine_trapdoor
+minecraft:spruce_fence -> byg:pine_fence
+minecraft:spruce_fence_gate -> byg:pine_fence_gate
+minecraft:spruce_pressure_plate -> byg:pine_pressure_plate
+minecraft:spruce_leaves -> byg:pine_leaves
+minecraft:spruce_stairs -> byg:pine_stairs
+minecraft:spruce_slab -> byg:pine_slab
+minecraft:spruce_planks -> byg:pine_planks
+minecraft:spruce_sign -> byg:pine_sign
+
+village_taiga_holly:
+minecraft:stripped_spruce_log -> byg:stripped_holly_log
+minecraft:spruce_log -> byg:holly_log
+minecraft:stripped_spruce_wood -> byg:stripped_holly_wood
+minecraft:spruce_wood -> byg:holly_wood
+minecraft:spruce_door -> byg:holly_door
+minecraft:spruce_trapdoor -> byg:holly_trapdoor
+minecraft:spruce_fence -> byg:holly_fence
+minecraft:spruce_fence_gate -> byg:holly_fence_gate
+minecraft:spruce_pressure_plate -> byg:holly_pressure_plate
+minecraft:spruce_leaves -> byg:holly_leaves
+minecraft:spruce_stairs -> byg:holly_stairs
+minecraft:spruce_slab -> byg:holly_slab
+minecraft:spruce_planks -> byg:holly_planks
+minecraft:spruce_sign -> byg:holly_sign
+
+village_taiga_holly,village_taiga_zelkova_1:
+minecraft:cobblestone -> byg:smooth_windswept_sandstone
+minecraft:cobblestone_stairs -> byg:smooth_windswept_sandstone_stairs
+minecraft:cobblestone_wall -> byg:smooth_windswept_sandstone_wall
+minecraft:cobblestone_slab -> byg:smooth_windswept_sandstone_slab
+minecraft:mossy_cobblestone -> byg:smooth_windswept_sandstone
+minecraft:mossy_cobblestone_wall -> byg:smooth_windswept_sandstone_wall
+minecraft:mossy_cobblestone_stairs -> byg:smooth_windswept_sandstone_stairs
+minecraft:mossy_cobblestone_slab -> byg:smooth_windswept_sandstone_slab
+
+village_taiga_witch_hazel:
+minecraft:stripped_spruce_log -> byg:stripped_witch_hazel_log
+minecraft:spruce_log (feature) -> byg:witch_hazel_log
+minecraft:spruce_log (!feature) -> byg:stripped_witch_hazel_log
+minecraft:stripped_spruce_wood -> byg:stripped_witch_hazel_wood
+minecraft:spruce_wood -> byg:stripped_witch_hazel_wood
+minecraft:spruce_door -> byg:witch_hazel_door
+minecraft:spruce_trapdoor -> byg:witch_hazel_trapdoor
+minecraft:spruce_fence -> byg:witch_hazel_fence
+minecraft:spruce_fence_gate -> byg:witch_hazel_fence_gate
+minecraft:spruce_pressure_plate -> byg:witch_hazel_pressure_plate
+minecraft:spruce_leaves -> byg:witch_hazel_leaves
+minecraft:spruce_stairs -> byg:witch_hazel_stairs
+minecraft:spruce_slab -> byg:witch_hazel_slab
+minecraft:spruce_planks -> byg:witch_hazel_planks
+minecraft:spruce_sign -> byg:witch_hazel_sign
+
+village_taiga_witch_hazel:
+minecraft:cobblestone -> minecraft:waxed_oxidized_cut_copper
+minecraft:cobblestone_stairs -> minecraft:waxed_oxidized_cut_copper_stairs
+minecraft:cobblestone_wall -> minecraft:waxed_oxidized_cut_copper_wall
+minecraft:cobblestone_slab -> minecraft:waxed_oxidized_cut_copper_slab
+minecraft:mossy_cobblestone -> minecraft:waxed_oxidized_cut_copper
+minecraft:mossy_cobblestone_stairs -> minecraft:waxed_oxidized_cut_copper_stairs
+minecraft:mossy_cobblestone_wall -> minecraft:waxed_oxidized_cut_copper_wall
+minecraft:mossy_cobblestone_slab -> minecraft:waxed_oxidized_cut_copper_slab
+
+village_taiga_zelkova_1:
+minecraft:stripped_spruce_log -> byg:stripped_zelkova_log
+minecraft:spruce_log (feature) -> byg:zelkova_log
+minecraft:spruce_log (!feature) -> byg:stripped_zelkova_log
+minecraft:stripped_spruce_wood -> byg:stripped_zelkova_wood
+minecraft:spruce_wood -> byg:stripped_zelkova_wood
+minecraft:spruce_door -> byg:zelkova_door
+minecraft:spruce_trapdoor -> byg:zelkova_trapdoor
+minecraft:spruce_fence -> byg:zelkova_fence
+minecraft:spruce_fence_gate -> byg:zelkova_fence_gate
+minecraft:spruce_pressure_plate -> byg:zelkova_pressure_plate
+minecraft:spruce_leaves -> byg:zelkova_leaves
+minecraft:spruce_stairs -> byg:zelkova_stairs
+minecraft:spruce_slab -> byg:zelkova_slab
+minecraft:spruce_planks -> byg:zelkova_planks
+minecraft:spruce_sign -> byg:zelkova_sign
+
+village_taiga_zelkova_2:
+minecraft:stripped_spruce_log -> byg:stripped_zelkova_log
+minecraft:spruce_log -> byg:zelkova_log
+minecraft:stripped_spruce_wood -> byg:stripped_zelkova_wood
+minecraft:spruce_wood -> byg:zelkova_wood
+minecraft:spruce_door -> byg:zelkova_door
+minecraft:spruce_trapdoor -> byg:zelkova_trapdoor
+minecraft:spruce_fence -> byg:zelkova_fence
+minecraft:spruce_fence_gate -> byg:zelkova_fence_gate
+minecraft:spruce_pressure_plate -> byg:zelkova_pressure_plate
+minecraft:spruce_leaves -> byg:zelkova_leaves
+minecraft:spruce_stairs -> byg:zelkova_stairs
+minecraft:spruce_slab -> byg:zelkova_slab
+minecraft:spruce_planks -> byg:zelkova_planks
+minecraft:spruce_sign -> byg:zelkova_sign
+
+village_taiga_zelkova_1:
+minecraft:cobblestone -> minecraft:diorite,minecraft:polished_diorite
+minecraft:cobblestone_stairs -> minecraft:diorite_stairs,minecraft:polished_diorite_stairs
+minecraft:cobblestone_wall -> minecraft:diorite_wall,minecraft:polished_diorite_wall
+minecraft:cobblestone_slab -> minecraft:diorite_slab,minecraft:polished_diorite_slab
+minecraft:mossy_cobblestone -> minecraft:diorite
+minecraft:mossy_cobblestone_stairs -> minecraft:diorite_stairs
+minecraft:mossy_cobblestone_wall -> minecraft:diorite_wall
+minecraft:mossy_cobblestone_slab -> minecraft:diorite_slab
+
+village_taiga_zelkova_2:
+minecraft:cobblestone -> byg:stripped_zelkova_wood
+minecraft:cobblestone_stairs -> byg:zelkova_stairs
+minecraft:cobblestone_wall -> byg:zelkova_wall
+minecraft:cobblestone_slab -> byg:zelkova_slab
+minecraft:mossy_cobblestone -> byg:stripped_zelkova_wood
+minecraft:mossy_cobblestone_stairs -> byg:zelkova_stairs
+minecraft:mossy_cobblestone_wall -> byg:zelkova_wall
+minecraft:mossy_cobblestone_slab -> byg:zelkova_slab
+
+village_desert_windswept:
+minecraft:sand -> byg:windswept_sand
+minecraft:sandstone -> byg:windswept_sandstone
+minecraft:sandstone_stairs -> byg:windswept_sandstone_stairs
+minecraft:sandstone_wall -> byg:windswept_sandstone_wall
+minecraft:sandstone_slab -> byg:windswept_sandstone_slab
+minecraft:smooth_sandstone -> byg:smooth_windswept_sandstone
+minecraft:smooth_sandstone_stairs -> byg:smooth_windswept_sandstone_stairs
+minecraft:smooth_sandstone_wall -> byg:smooth_windswept_sandstone_wall
+minecraft:smooth_sandstone_slab -> byg:smooth_windswept_sandstone_slab
+minecraft:cut_sandstone -> byg:cut_windswept_sandstone
+minecraft:cut_sandstone_stairs -> byg:cut_windswept_sandstone_stairs
+minecraft:cut_sandstone_wall -> byg:cut_windswept_sandstone_wall
+minecraft:cut_sandstone_slab -> byg:cut_windswept_sandstone_slab
+minecraft:chiseled_sandstone -> byg:chiseled_windswept_sandstone
+minecraft:chiseled_sandstone_stairs -> byg:chiseled_windswept_sandstone_stairs
+minecraft:chiseled_sandstone_wall -> byg:chiseled_windswept_sandstone_wall
+minecraft:chiseled_sandstone_slab -> byg:chiseled_windswept_sandstone_slab
+
+village_savanna_pine:
+minecraft:stripped_acacia_log -> byg:stripped_pine_log
+minecraft:acacia_log -> byg:pine_log
+minecraft:stripped_acacia_wood -> byg:stripped_pine_wood
+minecraft:acacia_wood -> byg:pine_wood
+minecraft:acacia_door -> byg:pine_door
+minecraft:acacia_trapdoor -> byg:pine_trapdoor
+minecraft:acacia_fence -> byg:pine_fence
+minecraft:acacia_fence_gate -> byg:pine_fence_gate
+minecraft:acacia_pressure_plate -> byg:pine_pressure_plate
+minecraft:acacia_leaves -> byg:pine_leaves
+minecraft:acacia_stairs -> byg:pine_stairs
+minecraft:acacia_slab -> byg:pine_slab
+minecraft:acacia_planks -> byg:pine_planks
+minecraft:acacia_sign -> byg:pine_sign
+minecraft:orange_terracotta -> minecraft:gray_terracotta
+minecraft:yellow_terracotta -> minecraft:white_terracotta
+minecraft:red_terracotta -> minecraft:light_gray_terracotta
+minecraft:yellow_glazed_terracotta -> minecraft:brown_glazed_terracotta
+
+village_savanna_oak:
+minecraft:stripped_acacia_log -> minecraft:stripped_oak_log
+minecraft:acacia_log -> minecraft:oak_log
+minecraft:stripped_acacia_wood -> minecraft:stripped_oak_wood
+minecraft:acacia_wood -> minecraft:oak_wood
+minecraft:acacia_door -> minecraft:oak_door
+minecraft:acacia_trapdoor -> minecraft:oak_trapdoor
+minecraft:acacia_fence -> minecraft:oak_fence
+minecraft:acacia_fence_gate -> minecraft:oak_fence_gate
+minecraft:acacia_pressure_plate -> minecraft:oak_pressure_plate
+minecraft:acacia_leaves -> minecraft:oak_leaves
+minecraft:acacia_stairs -> minecraft:oak_stairs
+minecraft:acacia_slab -> minecraft:oak_slab
+minecraft:acacia_planks -> minecraft:oak_planks
+minecraft:acacia_sign -> minecraft:oak_sign
+
+village_savanna_baobab:
+minecraft:stripped_acacia_log -> byg:stripped_baobab_log
+minecraft:acacia_log -> byg:baobab_log
+minecraft:stripped_acacia_wood -> byg:stripped_baobab_wood
+minecraft:acacia_wood -> byg:baobab_wood
+minecraft:acacia_door -> byg:baobab_door
+minecraft:acacia_trapdoor -> byg:baobab_trapdoor
+minecraft:acacia_fence -> byg:baobab_fence
+minecraft:acacia_fence_gate -> byg:baobab_fence_gate
+minecraft:acacia_pressure_plate -> byg:baobab_pressure_plate
+minecraft:acacia_leaves -> byg:baobab_leaves
+minecraft:acacia_stairs -> byg:baobab_stairs
+minecraft:acacia_slab -> byg:baobab_slab
+minecraft:acacia_planks -> byg:baobab_planks
+minecraft:acacia_sign -> byg:baobab_sign
+minecraft:orange_terracotta -> minecraft:light_gray_terracotta
+minecraft:yellow_terracotta -> ?
+minecraft:red_terracotta -> minecraft:terracotta
+minecraft:yellow_glazed_terracotta -> ?
